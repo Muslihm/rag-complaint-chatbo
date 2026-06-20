@@ -27,3 +27,8 @@ ipykernel>=6.16.0
 
 # Additional
 python-dotenv>=0.21.0
+# Task 2 specific dependencies
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+langchain>=0.0.200  # Optional for text splitting
+tqdm>=4.64.0
