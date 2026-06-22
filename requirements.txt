@@ -32,3 +32,6 @@ sentence-transformers>=2.2.0
 faiss-cpu>=1.7.4
 langchain>=0.0.200  # Optional for text splitting
 tqdm>=4.64.0
+# Task 4 - Web Interface
+streamlit>=1.28.0
+plotly>=5.14.0
