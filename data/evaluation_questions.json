@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What are the most common credit card complaints?",
+      "filter": "Credit card",
+      "expected_answer": "Credit card complaints include billing disputes, fraud, and customer service issues"
+    },
+    {
+      "question": "Why are customers unhappy with money transfers?",
+      "filter": "Money transfer",
+      "expected_answer": "Money transfer complaints include delays, fraud, and failed transactions"
+    },
+    {
+      "question": "What issues do customers face with personal loans?",
+      "filter": "Personal loan",
+      "expected_answer": "Personal loan complaints include interest rates, fees, and billing disputes"
+    },
+    {
+      "question": "Tell me about fees complaints across all products",
+      "filter": null,
+      "expected_answer": "Fees are a common complaint across credit cards, savings accounts, and personal loans"
+    },
+    {
+      "question": "What are the fraud-related complaints?",
+      "filter": null,
+      "expected_answer": "Fraud complaints include unauthorized transactions, identity theft, and suspicious charges"
+    },
+    {
+      "question": "Compare complaints between credit cards and personal loans",
+      "filter": null,
+      "expected_answer": "Credit cards have more billing and fraud complaints, while personal loans have more interest and fee complaints"
+    },
+    {
+      "question": "What customer service issues are mentioned?",
+      "filter": null,
+      "expected_answer": "Customer service issues include long wait times, unhelpful responses, and difficulty reaching support"
+    },
+    {
+      "question": "How do customers describe billing disputes?",
+      "filter": null,
+      "expected_answer": "Customers describe billing disputes as incorrect charges, unauthorized transactions, and difficulty getting refunds"
+    }
+  ]
+}
